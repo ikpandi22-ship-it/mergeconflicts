@@ -1,1 +1,2 @@
-city : palani
+city : Dindigul
+
